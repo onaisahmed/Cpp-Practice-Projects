@@ -1,0 +1,24 @@
+# Ignore object files
+*.o
+*.obj
+
+# Ignore compiled binary files (executables)
+*.exe
+*.out
+*.app
+*.bin
+*.dll
+*.so
+*.dylib
+
+# Ignore debug files
+*.pdb
+*.log
+
+# Ignore build directories (common convention)
+build/
+
+# Ignore PDF and Doc files
+*.pdf
+*.doc
+*.docx
