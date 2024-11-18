@@ -1,0 +1,5 @@
+let x = 10;
+input y
+print x
+let z = x + y
+print z
